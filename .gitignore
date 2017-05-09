@@ -1,0 +1,3 @@
+# Ignore C# build folders
+bin/
+obj/
