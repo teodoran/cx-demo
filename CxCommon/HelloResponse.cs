@@ -1,4 +1,4 @@
-namespace CxApi.Models
+namespace CxCommon
 {
     public class HelloResponse
     {
