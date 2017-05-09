@@ -1,3 +1,6 @@
 # Ignore C# build folders
 bin/
 obj/
+
+# Ignore VSCode project settings
+.vscode/
