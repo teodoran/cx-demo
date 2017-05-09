@@ -13,7 +13,7 @@ namespace CxApi.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello who?";
+            return "Hello Dr. Who?";
         }
 
         // GET api/hello/world
